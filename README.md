@@ -22,4 +22,4 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=VitorNuness&repo=VitorNuness&theme=react)](https://github.com/VitorNuness/VitorNuness)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=VitorNuness&repo=VitorNuness&theme=synthwave)](https://github.com/VitorNuness/VitorNuness)
