@@ -17,9 +17,6 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <br><br> 
 </div>
- 
-  ![Snake animation](https://github.com/VitorNuness/VitorNuness/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
  
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=VitorNuness&repo=VitorNuness&theme=synthwave)](https://github.com/VitorNuness/VitorNuness)
