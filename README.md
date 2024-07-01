@@ -1,7 +1,17 @@
-# Olá, prazer me chamo Vitor Nunes Silva 🖐!
+# Olá, prazer me chamo Vitor Nunes da Silva 🖐!
 *Desenvolvedor Fullstack*
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na [Universidade de Marília (Unimar)](https://www.unimar.br/). Venho desenvolvendo projetos pessoais e acadêmicos, expandindo meu conhecimento na área, independente de linguagem, framework, ferramenta, etc. Abaixo estão minhas sociais para contato e meu conhecimento (ordenado por afinidade).
+
+<details>
+<summary>🌐 (en - us)</summary>  
+Hello, nice to meet you, my name is Vitor Nunes Silva 🖐!
+
+*Fullstack Developer*
+
+I am a student of Systems Analysis and Development (ADS) at [University of Marília (Unimar)](https://www.unimar.br/). I have been developing personal and academic projects, expanding my knowledge in the area, regardless of language, framework, tool, etc. Below are my social contacts and my acquaintance (sorted by affinity).
+
+</details>
 
 vitor1nuness@gmail.com | [+55 (14) 99706-1888](https://wa.me/+5514997061888?text=Olá%20Vitor.%20Tudo%20bem?)
 
@@ -17,7 +27,7 @@ vitor1nuness@gmail.com | [+55 (14) 99706-1888](https://wa.me/+5514997061888?text
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 📚 Frameworks and Libraries
+#### 📚 Frameworks e Bibliotecas
 - ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
