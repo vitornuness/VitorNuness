@@ -1,17 +1,11 @@
 # Olá, prazer me chamo Vitor Nunes da Silva 🖐!
 *Desenvolvedor Fullstack*
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na [Universidade de Marília (Unimar)](https://www.unimar.br/). Venho desenvolvendo projetos pessoais e acadêmicos, expandindo meu conhecimento na área, independente de linguagem, framework, ferramenta, etc. Abaixo estão minhas sociais para contato e meu conhecimento (ordenado por afinidade).
+Graduando em Análise e Desenvolvimento de Sistemas.
 
-<details>
-<summary>🌐 (en - us)</summary>  
-Hello, nice to meet you, my name is Vitor Nunes Silva 🖐!
+Sou Desenvolvedor Fullstack, com foco no Backend em Java com Spring, Frontend com React e Angular, e bancos de dados relacionais SQL.
 
-*Fullstack Developer*
-
-I am a student of Systems Analysis and Development (ADS) at [University of Marília (Unimar)](https://www.unimar.br/). I have been developing personal and academic projects, expanding my knowledge in the area, regardless of language, framework, tool, etc. Below are my social contacts and my acquaintance (sorted by affinity).
-
-</details>
+Na minha carreira profissional e acadêmica, já utilizei tecnologias como: Laravel, .NET e Vue. Também, já realizei manutenções em sistemas legados, que utilizam Java 6, SVN e requisições SOAP. Abaixo estão minhas sociais para contato e as tecnologias que já utilizei em projetos (ordenado por afinidade).
 
 vitor1nuness@gmail.com | [+55 (14) 99706-1888](https://wa.me/+5514997061888?text=Olá%20Vitor.%20Tudo%20bem?)
 
